@@ -1,8 +1,10 @@
 # soundboard
 
 This is a sound board app written in python. It uses 2 types of buttons:
+
     1. buttons that can be pressed multiple times
     2. buttons that, when ctrl-keyed, stop (recommended for very long sound effects/music)
+    
 In linux, the numpad buttons are the keybinds. The buttons are layed out to match, visually, the 10-key numpad.
 Windows may have keybind issues. The file paths may also need to be a different format.
 It is easy to get sound samples from http://bbcsfx.acropolis.org.uk/
